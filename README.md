@@ -1,1 +1,1 @@
-# WanjaWhoopie.github.io
+# Practice projects from HNG.
